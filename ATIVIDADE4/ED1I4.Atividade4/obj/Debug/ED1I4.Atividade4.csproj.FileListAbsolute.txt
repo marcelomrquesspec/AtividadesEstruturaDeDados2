@@ -1,0 +1,10 @@
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\obj\Debug\ED1I4.Atividade4.csproj.AssemblyReference.cache
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\obj\Debug\ED1I4.Atividade4.Form1.resources
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\obj\Debug\ED1I4.Atividade4.Properties.Resources.resources
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\obj\Debug\ED1I4.Atividade4.csproj.GenerateResource.cache
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\obj\Debug\ED1I4.Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\bin\Debug\ED1I4.Atividade4.exe.config
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\bin\Debug\ED1I4.Atividade4.exe
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\bin\Debug\ED1I4.Atividade4.pdb
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\obj\Debug\ED1I4.Atividade4.exe
+C:\Users\matheus.santos\Documents\Faculdade\ADS417\AtividadesEstruturasDeDados2\Atividade4\ED1I4.Atividade4\obj\Debug\ED1I4.Atividade4.pdb
