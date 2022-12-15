@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\bin\Debug\ED1I4.Atividade6.exe.config
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\bin\Debug\ED1I4.Atividade6.exe
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\bin\Debug\ED1I4.Atividade6.pdb
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.Form1.resources
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.Properties.Resources.resources
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.exe
+C:\Users\mathe\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade6\ED1I4.Atividade6\ED1I4.Atividade6\obj\Debug\ED1I4.Atividade6.pdb
