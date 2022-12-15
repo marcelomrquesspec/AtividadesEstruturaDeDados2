@@ -1,0 +1,1 @@
+{"Id":1,"Nome":"Palinkas","Ambientes":[{"Id":1,"Nome":"","Logs":[]},{"Id":2,"Nome":"","Logs":[]}]}
